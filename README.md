@@ -33,6 +33,8 @@ To add a plugin, create a pull request containing the new plugin and it's config
 
 - **PermissionsBukkit** allows you to create different roles for different specific groups of players on your server to allow a different configurable list of commands for each player. It allows you to have different ranks for every player on the server instead just using `/op` for every single person that wants to be a moderator on your server, or someone who wants to use like one specific command that they can't use without giving them `/op` and hoping they won't just randomly destroy your whole server
 
+- **PermissionSex** a permissions plugin that lets you create groups, and ranks on your server. 
+
 - **tpLogin** teleports players back to a specific location every time they log in
 
 - **WorldEdit** allows you to build very large structures on your server in a very short amount of time using commands
