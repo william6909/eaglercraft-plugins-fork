@@ -4,7 +4,7 @@
 
 ### This plugin can add animated MOTDs to your Eaglercraft server
 
-![EaglerMOTD Sample](https://i.gyazo.com/ec23a9c60e9722209246fc2b2acea8e4.gif)
+![EaglerMOTD Sample](https://i.gyazo.com/4e0105720c866990c82b221fe82f7cc9.gif)
 
 **It can also add custom "Accept:" query handlers for 3rd party sites to gather more information about your server**
 
