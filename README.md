@@ -17,6 +17,8 @@ To add a plugin, create a pull request containing the new plugin and it's config
 
 - **Clearlag** deletes all dropped items every ~6 minutes (can be changed) and helps disable lag machines
 
+- **[DupePatch](https://github.com/darverdevs/DupePatch/releases)** patches some of the most common 1.5.2 dupe glitches players may abuse
+
 - **[EaglerMOTD](https://github.com/LAX1DUDE/eaglercraft-motd)** is a plugin for EaglercraftBungee to add **animated MOTDs** to your server
 
 - **Essentials** adds `/tpa` and `/sethome` and `/warp` and like 50 admin commands
