@@ -1,7 +1,7 @@
 # eaglercraft-plugins
 A list of Bukkit and EaglercraftBungee plugins tested and compatible with Eaglercraft
 
-### You can try darverdevs's plugin installer [Here](https://github.com/darverdevs/PluginInstaller) that can automatically install most of these plugins
+### You can try darverdevs's plugin installer [Here](https://github.com/darverdevs/PluginInstaller) that can automatically install most of these plugins for you to save time
 
 Every plugin has a folder, the folder contains the JAR file containing the plugin which you can copy to your bukkit server's `/plugins` directory and the folder also contains the configuration directory containing the configuration recommended for using the plugin with Eaglercraft which you can also copy (the folder not the files inside) into your `/plugins` directory.
 
