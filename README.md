@@ -31,7 +31,7 @@ To add a plugin, create a pull request containing the new plugin and it's config
 
 - **Multiverse** allows you to add more worlds to a server besides the overworld/nether/end
 
-- **NoCheatPlus** deters any players from using your server to develop hacked clients
+- **UpdatedNoCheatPlus** deters any players from using your server to develop hacked clients
 
 - **NoSpawnPVP** disables PVP in the server's `spawn-protection` radius set in `server.propeties`
 
