@@ -41,4 +41,4 @@ To add a plugin, create a pull request containing the new plugin and it's config
 
 - **tpLogin** teleports players back to a specific location every time they log in
 
-- **WorldEdit** allows you to build very large structures on your server in a very short amount of time using commands
+- **WorldEdit** allows you to build very large structures on your server in a very short amount of time using commands. [More WorldEdit Info](https://en.wikipedia.org/wiki/WorldEdit)
